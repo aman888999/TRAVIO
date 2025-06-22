@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-203.000000, -1339.000000)">
+            <g id="Group-4" transform="translate(203.000000, 1339.000000)">
+                <circle id="Oval" fill-opacity="0.3" fill="#000000" cx="45" cy="45" r="45"></circle>
+                <path d="M24,25.5 L67,25.5" id="Line-16" stroke="#FAFAFA" stroke-width="9" stroke-linecap="round"></path>
+                <g id="Group-3" transform="translate(28.000000, 31.000000)">
+                    <path d="M18,10.3947368 L18,36" id="Line-16" stroke="#FAFAFA" stroke-width="9" stroke-linecap="round"></path>
+                    <path d="M19.0051534,1.7201753 L32.0976169,16.6829908 C32.824981,17.514264 32.740746,18.7777893 31.9094728,19.5051534 C31.5448898,19.8241635 31.0769098,20 30.5924635,20 L4.40753645,20 C3.30296695,20 2.40753645,19.1045695 2.40753645,18 C2.40753645,17.5155537 2.58337295,17.0475738 2.90238306,16.6829908 L15.9948466,1.7201753 C16.7222107,0.888902039 17.985736,0.804667023 18.8170092,1.53203113 C18.8838308,1.59049998 18.9466845,1.65335376 19.0051534,1.7201753 Z" id="Triangle" fill="#FAFAFA"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

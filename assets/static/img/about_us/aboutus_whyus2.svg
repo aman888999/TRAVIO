@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="34.5" cy="34.5" r="34.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-585.000000, -1092.000000)">
+            <g id="Group-11" transform="translate(529.000000, 1092.000000)">
+                <g id="Group-7" transform="translate(56.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FEF3E2" xlink:href="#path-1"></use>
+                    <polygon id="Rectangle" fill="#F7E5CA" mask="url(#mask-2)" transform="translate(49.222008, 46.706767) rotate(-6.000000) translate(-49.222008, -46.706767) " points="18.1861117 38.7949412 54.1893835 27.7118794 80.2579046 55.1906885 52.1574353 65.7016539"></polygon>
+                    <path d="M18.4915667,27 L51.5084764,27 C52.0607612,27 52.5084764,27.4477153 52.5084764,28 C52.5084764,28.1302636 52.4830258,28.2592722 52.4335548,28.3797762 L50.0769052,34.1202238 C49.9770098,34.3635543 49.9770098,34.6364457 50.0769052,34.8797762 L52.4335548,40.6202238 C52.6432994,41.1311304 52.3991593,41.7153338 51.8882526,41.9250784 C51.7677486,41.9745494 51.63874,42 51.5084764,42 L18.4915667,42 C17.939282,42 17.4915667,41.5522847 17.4915667,41 C17.4915667,40.8697274 17.5170208,40.74071 17.5664985,40.620199 L19.9233071,34.879801 C20.0232161,34.636456 20.0232161,34.363544 19.9233071,34.120199 L17.5664985,28.379801 C17.3567402,27.8688999 17.6008647,27.2846901 18.1117657,27.0749318 C18.2322767,27.0254541 18.3612942,27 18.4915667,27 Z" id="Rectangle" fill="#333333" mask="url(#mask-2)"></path>
+                    <circle id="Oval" fill="#FFE5A4" mask="url(#mask-2)" cx="34.5" cy="34.5" r="13.5"></circle>
+                    <circle id="Oval" fill="#F9C747" mask="url(#mask-2)" cx="34.5" cy="34.5" r="10.5"></circle>
+                    <polygon id="Star" fill="#333333" mask="url(#mask-2)" points="35 38.5 30.8855032 40.663119 31.6713022 36.0815595 28.3426044 32.836881 32.9427516 32.1684405 35 28 37.0572484 32.1684405 41.6573956 32.836881 38.3286978 36.0815595 39.1144968 40.663119"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

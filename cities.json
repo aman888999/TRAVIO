@@ -1,0 +1,1059 @@
+[
+    {
+        "id": 1,
+        "keyword": ["Ladakh","leh"],
+        "price": "₹30,990",
+        "daynight": "5 Nights / 6 Days",
+        "route": " Leh() - Ladakh",
+        "image": "images/ladakh.jpg",
+        "link": "/india-holidays/ladakh-tour-packages.html",
+        "feature": ["Mountain Views", "Bike Rides", "Monasteries"]
+    }
+    ,
+    {
+        "id": 2,
+        "keyword": ["Shimla","Manali","Chandigarh"],
+        "price": "₹36,800",
+        "daynight": "6 Nights / 7 Days",
+        "route": " Leh() - Ladakh",
+        "image": "images/chandigarh.jpg",
+        "link": "/india-holidays/chandigarh-tour-packages.html",
+        "feature": ["Mountain Views", "Bike Rides", "Couple"]
+    },
+    {
+        "id": 3,
+        "keyword": ["andaman nicobar","Andaman and nicobar","nicobar","Port Blair Break"],
+        "price": ["₹13,000","₹15,500","22,900"],
+        "daynight": "3 Nights / 4 Days",
+        "route": "Port Blair (1) → Havelock Island (2) → Port Blair (1)",
+        "image": "images/andaman-and-nicobar-tour-packages.jpg",
+        "link": "/india-holidays/andaman-and-nicobar-tour-packages.html"
+    }
+    ,
+    {
+        "id": 4,
+        "keyword": ["Chennai with Tirupati","Andhra Pradesh","Chennai ","Tirupati","Spiritual South India"," Puducherry","Bengaluru","Ooty","Mysore"],
+        "price": ["₹13,000","₹15,500","40,740"],
+        "daynight": "3 Nights / 4 Days",
+        "route": "PChennai (1) → Puducherry (2) → Tirupati (1) → Bengaluru (1) → Mysore (2) → Ooty (2)",
+        "image": "images/andaman-and-nicobar-tour-packages.jpg",
+        "link": "/india-holidays/andhra-pradesh-tour-packages.html"
+    }
+    ,
+    {
+        "id": 5,
+        "keyword": ["Arunachal Pradesh", "Tawang", "Dirang", "Bomdila", "Guwahati", "Bhalukpong", "North East India", "Scenic Himalayas"],
+        "price": ["₹29,950"],
+        "daynight": "6 Nights / 7 Days",
+        "route": "Bhalukpong (1) → Dirang (1) → Tawang (2) → Bomdila (1) → Guwahati (1)",
+        "image": "images/arunachal-pradesh-tour-packages.jpg",
+        "link": "/india-holidays/arunachal-pradesh-tour-packages.html"
+    }
+    ,
+        {
+            "id": 6,
+            "keyword": [
+                "Assam", "Kaziranga National Park", "Guwahati", "Majuli", "Shillong", 
+                "Meghalaya", "Brahmaputra Cruise", "Tea Gardens", "Bhalukpong", "Dirang", 
+                "Tawang", "Bomdila", "Dawki", "Cherrapunjee"
+            ],
+            "price": ["₹29,950","₹29,790","₹26,990"],
+            "daynight": "6 Nights / 7 Days",
+            "route": "Shillong (1) → Dawki (1) → Cherrapunjee (1) → Kaziranga National Park (2) → Guwahati (1)",
+            "image": "images/assam-tour-packages.jpg",
+            "link": "/india-holidays/assam-tour-packages.html"
+        }
+        ,{
+            "id": 7,
+            "keyword": [ "Daman", "Diu", "Dwarka", "Somnath", "Sasan Gir", "Gujarat", "Beaches", "Heritage", "Wildlife", "Portuguese Architecture"
+            ],
+            "price": "₹45,000",
+            "daynight": "6 Nights / 7 Days",
+            "route": "Dwarka (1) → Somnath (1) → Diu (2) → Sasan Gir (2)",
+            "image": "images/daman-diu-tour-packages.jpg",
+            "link": "/india-holidays/daman-and-diu-tour-packages.html"
+        }
+        ,
+        {
+            "id": 7,
+            "keyword": [ "Daman", "Gujarat","Diu", "Dwarka", "Somnath", "Sasan Gir", "Beaches", "Heritage", "Wildlife", "Portuguese Architecture"
+            ],
+            "price": "₹45,000",
+            "daynight": "6 Nights / 7 Days",
+            "route": "Dwarka (1) → Somnath (1) → Diu (2) → Sasan Gir (2)",
+            "image": "images/daman-diu-tour-packages.jpg",
+            "link": "/india-holidays/daman-and-diu-tour-packages.html"
+        },
+        {
+            "id": 8,
+            "keyword": [
+                "Delhi", "Delhi", "Agra", "Jaipur", "Jodhpur", "Jaisalmer", "Udaipur", 
+                "Golden Triangle", "Rajasthan", "Taj Mahal", "Forts & Palaces", "Heritage Tour"
+            ],
+            "price": ["₹44,490"],
+            "daynight": "5 Nights / 6 Days",
+            "route": [
+                "Delhi (1) → Agra (1) → Jaipur (2) → Jodhpur (1) → Jaisalmer (2)",
+                "Delhi (1) → Agra (1) → Jaipur (2) → Udaipur (2)",
+                "Delhi (1) → Agra (1) → Jaipur (2) → Jodhpur (1)",
+                "Delhi (1) → Agra (1) → Jaipur (2)"
+            ],
+            "image": "images/delhi-tour-packages.jpg",
+            "link": "/india-holidays/delhi-tour-packages.html",
+            "feature": ["Historical Monuments", "Heritage Forts", "Desert Safari", "Cultural Experience"]
+        }
+        ,
+        {
+            "id": 9,
+            "keyword": [
+                "Goa", "North Goa", "South Goa", "Beaches", "Karnataka", "Mangalore", 
+                "Hassan", "Hospet", "Bijapur", "Hubli", "Heritage Karnataka", "Coastal Getaway"
+            ],
+            "price": ["₹18,000", "₹25,500", "₹32,000"],
+            "daynight": "8 Nights / 9 Days",
+            "route": [
+                "Mangalore (1) → Hassan (1) → Hospet (2) → Bijapur (1) → Hubli (1) → Goa (2)"
+            ],
+            "image": "images/goa-tour-packages.jpg",
+            "link": "/india-holidays/goa-tour-packages.html",
+            "feature": ["Beaches", "Heritage Sites", "Water Sports", "Cultural Experience","family"]
+        }
+        ,
+        {
+            "id": 10,
+            "keyword": [
+                "Gujarat", "Ahmedabad", "Sabarmati Ashram", "Kankaria Lake", "Heritage City", 
+                "Rann of Kutch", "Gir National Park", "Statue of Unity"
+            ],
+            "price": ["₹12,000", "₹18,500", "₹25,000"],
+            "daynight": "4 Nights / 5 Days",
+            "route": [
+                "Ahmedabad (4)"
+            ],
+            "image": "images/gujarat-tour-packages.jpg",
+            "link": "/india-holidays/gujarat-tour-packages.html",
+            "feature": ["Cultural Heritage", "Historical Sites", "Wildlife Safari", "Religious Tours"]
+        },
+        {
+            "id": 11,
+            "keyword": [
+                "Karnataka", "Bengaluru", "Tirupati", "Puducherry", "Mysore", "Nagarhole", 
+                "Ooty", "Kodaikanal", "Coorg", "Wayanad", "Kozhikode", "Chennai", "Mangalore", 
+                "Hassan", "Hospet", "Bijapur", "Hubli", "Goa", "Chikmagalur", "Chitradurga", 
+                "Hampi", "Badami", "Kovalam", "Kanniyakumari", "Rameswaram", "Madurai"
+            ],
+            "price": ["₹15,000", "₹20,500", "₹25,000"],
+            "daynight": "7 Nights / 8 Days",
+            "route": [
+                "Bengaluru (1) → Tirupati (1) → Puducherry (2)",
+                "Bengaluru (1) → Mysore (1) → Nagarhole (2)",
+                "Bengaluru (1) → Mysore (2) → Ooty (2) → Kodaikanal (2)",
+                "Bengaluru (1) → Mysore (1) → Coorg (1) → Ooty (2) → Wayanad (2) → Kozhikode (1)",
+                "Chennai (1) → Puducherry (2) → Tirupati (1) → Bengaluru (1) → Mysore (2) → Ooty (2)",
+                "Mangalore (1) → Hassan (1) → Hospet (2) → Bijapur (1) → Hubli (1) → Goa (2)",
+                "Mysore (2) → Chikmagalur (2) → Chitradurga (1) → Hampi (2) → Badami (2)",
+                "Kovalam (1) → Kanniyakumari (1) → Rameswaram (1) → Kodaikanal (2) → Madurai (1) → Ooty (2) → Mysore (1) → Bengaluru (1)"
+            ],
+            "image": "images/karnataka-tour-packages.jpg",
+            "link": "/india-holidays/karnataka-tour-packages.html",
+            "feature": ["Heritage Sites", "Hill Stations", "Wildlife Safaris", "Beaches", "Cultural Tours"]
+        },
+        {
+            "id": 12,
+            "keyword": ["Kerala", "Kovalam", "Kanniyakumari", "Rameswaram", "Kodaikanal", "Madurai", "Ooty", "Mysore", "Bengaluru", "Coorg", "Wayanad", "Kozhikode", "Munnar", "Thekkady", "Alappuzha", "Cochin"],
+            "price": ["₹28,000", "₹30,000", "₹35,000"],
+            "daynight": ["8 Nights / 9 Days", "7 Nights / 8 Days", "6 Nights / 7 Days"],
+            "routes": [
+                "Kovalam (1) → Kanniyakumari (1) → Rameswaram (1) → Kodaikanal (2) → Madurai (1) → Ooty (2) → Mysore (1) → Bengaluru (1)",
+                "Bengaluru (1) → Mysore (1) → Coorg (1) → Ooty (2) → Wayanad (2) → Kozhikode (1)",
+                "Kozhikode (1) → Wayanad (2) → Ooty (2) → Munnar (2) → Thekkady (1) → Alappuzha (1)",
+                "Cochin (1) → Munnar (2) → Thekkady (1) → Alappuzha (1) → Kovalam (1) → Kanniyakumari (1) → Rameswaram (1) → Madurai (1)",
+                "Kovalam (1) → Kanniyakumari (1) → Rameswaram (1) → Kodaikanal (2) → Ooty (2)"
+                
+            ],
+            "image": "images/kerala-tour-packages.jpg",
+            "link": "/india-holidays/kerala-tour-packages.html",
+            "feature": ["Backwaters", "Hill Stations", "Beaches", "Wildlife Safari", "Cultural Heritage"]
+        },{
+            "id": 13,
+            "keyword": ["Madhya Pradesh", "Indore", "Pachmarhi", "Jabalpur", "Bhopal", "Orchha", "Khajuraho Group of Monuments", "Bandhavgarh"],
+            "price": ["₹20,000", "₹25,000", "₹30,000"],
+            "daynight": ["5 Nights / 6 Days", "6 Nights / 7 Days"],
+            "routes": [
+                "Indore (2) → Pachmarhi (3) → Jabalpur (1)",
+                "Pachmarhi (3) → Bhopal (2)",
+                "Orchha (1) → Khajuraho Group of Monuments (1) → Bandhavgarh (2)"
+            ],
+            "image": "images/madhya-pradesh-tour-packages.jpg",
+            "link": "/india-holidays/madhya-pradesh-tour-packages.html",
+            "feature": ["Heritage Sites", "Wildlife Safari", "Historical Monuments", "Hill Stations"]
+        },
+        {
+            "id": 14,
+            "keyword": ["Maharashtra", "Matheran", "Lonavla", "Mahabaleshwar", "Aurangabad", "Shirdi", "Hill Stations", "Heritage", "Religious"],
+            "price": ["₹18,000", "₹25,500"],
+            "daynight": "6 Nights / 7 Days",
+            "route": [
+                "Matheran (2) → Lonavla (2) → Mahabaleshwar (2)",
+                "Aurangabad (3) → Shirdi (1)"
+            ],
+            "image": "images/maharashtra-tour-packages.jpg",
+            "link": "/india-holidays/maharashtra-tour-packages.html",
+            "feature": ["Hill Stations", "Heritage Sites", "Spiritual Destinations"]
+        }
+        ,
+        {
+            "id": 15,
+            "keyword": ["Meghalaya", "Shillong", "Cherrapunjee", "Kaziranga National Park", "Dawki", "Guwahati", "Nature", "Wildlife", "Adventure"],
+            "price": ["₹20,000", "₹28,500", "₹35,000"],
+            "daynight": "5 Nights / 6 Days",
+            "route": [
+                "Shillong (1) → Cherrapunjee (2) → Shillong (1)",
+                "Kaziranga National Park (2) → Shillong (1) → Cherrapunjee (1) → Guwahati (1)",
+                "Shillong (1) → Dawki (1) → Cherrapunjee (1) → Kaziranga National Park (2) → Guwahati (1)"
+            ],
+            "image": "images/meghalaya-tour-packages.jpg",
+            "link": "/india-holidays/meghalaya-tour-packages.html",
+            "feature": ["Scenic Landscapes", "Wildlife Safari", "Adventure Activities"]
+        },
+        {
+            "id": 16,
+            "keyword": ["Odisha", "Bhubaneshwar", "Puri", "Gopalpur", "Kolkata", "Temples", "Beaches", "Heritage"],
+            "price": ["₹18,000", "₹25,500", "₹32,000"],
+            "daynight": "5 Nights / 6 Days",
+            "route": [
+                "Bhubaneshwar (1) → Puri (2) → Gopalpur (2) → Bhubaneshwar (1)",
+                "Puri (1) → Bhubaneshwar (1) → Kolkata (2)",
+                "Bhubaneshwar (1) → Puri (2) → Bhubaneshwar (1)",
+                "Bhubaneshwar (1) → Puri (1) → Bhubaneshwar (2)"
+            ],
+            "image": "images/odisha-tour-packages.jpg",
+            "link": "/india-holidays/odisha-tour-packages.html",
+            "feature": ["Cultural Heritage", "Spiritual Tours", "Beach Holidays"]
+        },
+        {
+            "id": 17,
+            "keyword": ["Puducherry", "Pondicherry", "Chennai", "Tirupati", "Bengaluru", "Mysore", "Ooty", "Mahabalipuram", "French Colony", "Beaches", "Auroville"],
+            "price": ["₹15,000", "₹22,500", "₹30,000"],
+            "daynight": "4 Nights / 5 Days",
+            "route": [
+                "Chennai (1) → Puducherry (2) → Tirupati (1) → Bengaluru (1) → Mysore (2) → Ooty (2)",
+                "Bengaluru (1) → Tirupati (1) → Puducherry (2)",
+                "Mahabalipuram (2) → Puducherry (2)"
+            ],
+            "image": "images/puducherry-tour-packages.jpg",
+            "link": "/india-holidays/puducherry-tour-packages.html",
+            "feature": ["Cultural Heritage", "Beach Holidays", "Spiritual Tours", "French Architecture"]
+        },
+        {
+            "id": 18,
+            "keyword": ["Puducherry", "Pondicherry", "Chennai", "Tirupati", "Bengaluru", "Mysore", "Ooty", "Mahabalipuram", "French Colony", "Beaches", "Auroville"],
+            "price": ["₹15,000", "₹22,500", "₹30,000"],
+            "daynight": "4 Nights / 5 Days",
+            "route": [
+                "Chennai (1) → Puducherry (2) → Tirupati (1) → Bengaluru (1) → Mysore (2) → Ooty (2)",
+                "Bengaluru (1) → Tirupati (1) → Puducherry (2)",
+                "Mahabalipuram (2) → Puducherry (2)"
+            ],
+            "image": "images/puducherry-tour-packages.jpg",
+            "link": "/india-holidays/puducherry-tour-packages.html",
+            "feature": ["Cultural Heritage", "Beach Holidays", "Spiritual Tours", "French Architecture"]
+        }
+        
+        ,
+        {
+            "id": 19,
+            "keyword": ["Punjab", "Amritsar", "Dalhousie", "Dharamsala", "Golden Temple", "Wagah Border", "Heritage", "Spiritual Tours", "Hill Stations"],
+            "price": ["₹18,000", "₹25,000", "₹32,000"],
+            "daynight": "5 Nights / 6 Days",
+            "route": [
+                "Dalhousie (2) → Dharamsala (2) → Amritsar (1)"
+            ],
+            "image": "images/punjab-tour-packages.jpg",
+            "link": "/india-holidays/punjab-tour-packages.html",
+            "feature": ["Heritage Tours", "Religious Tours", "Hill Station Getaways"]
+        }
+,
+{
+    "id": 20,
+    "keyword": ["Rajasthan", "Jaipur", "Jodhpur", "Udaipur", "Jaisalmer", "Delhi", "Agra", "Bharatpur", "Ranthambhore", "Heritage Tours", "Forts & Palaces", "Desert Safari"],
+    "price": ["₹20,000", "₹30,000", "₹40,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+        "Delhi (1) → Agra (1) → Jaipur (2)",
+        "Delhi (1) → Agra (1) → Jaipur (2) → Jodhpur (1)",
+        "Jaipur (2) → Jodhpur (1) → Udaipur (2)",
+        "Delhi (1) → Agra (1) → Jaipur (2) → Udaipur (2)",
+        "Agra (1) → Bharatpur (1) → Ranthambhore (2) → Jaipur (2)",
+        "Delhi (1) → Agra (1) → Jaipur (2) → Jodhpur (1) → Jaisalmer (2)"
+    ],
+    "image": "images/rajasthan-tour-packages.jpg",
+    "link": "/india-holidays/rajasthan-tour-packages.html",
+    "feature": ["Heritage Tours", "Forts & Palaces", "Cultural Experience", "Desert Safari", "Wildlife"]
+},
+{
+    "id": 21,
+    "keyword": ["Sikkim", "Gangtok", "Lachung", "Pelling", "Darjeeling", "Kalimpong", "Himalayas", "Nature", "Adventure"],
+    "price": ["₹25,000", "₹35,000", "₹45,000"],
+    "daynight": "7 Nights / 8 Days",
+    "route": [
+        "Gangtok (2) → Lachung (2) → Gangtok (1) → Pelling (2) → Darjeeling (2)",
+        "Gangtok (2) → Lachung (2) → Gangtok (1) → Pelling (2)",
+        "Gangtok (2) → Kalimpong (1) → Darjeeling (2)",
+        "Gangtok (2) → Pelling (2) → Darjeeling (2)",
+        "Gangtok (3) → Kalimpong (1) → Darjeeling (2)"
+    ],
+    "image": "images/sikkim-holiday-packages.jpg",
+    "link": "/india-holidays/sikkim-tour-packages.html",
+    "feature": ["Mountain Views", "Adventure Activities", "Monasteries", "Tea Gardens", "Scenic Beauty"]
+    
+},
+{
+    "id": 22,
+    "keyword": ["Tamil Nadu", "Chennai", "Puducherry", "Tirupati", "Madurai", "Rameswaram", "Kodaikanal", "Ooty", "Mysore", "Kovalam", "Kanniyakumari", "Thekkady", "Munnar", "Alappuzha", "Cochin", "Mahabalipuram", "Coorg", "Wayanad", "Kozhikode"],
+    "price": ["₹18,000", "₹25,000", "₹35,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+        "Kovalam (1) → Kanniyakumari (1) → Rameswaram (1) → Kodaikanal (2) → Madurai (1) → Ooty (2) → Mysore (1) → Bengaluru (1)",
+        "Chennai (1) → Puducherry (2) → Tirupati (1) → Bengaluru (1) → Mysore (2) → Ooty (2)",
+        "Bengaluru (1) → Mysore (1) → Coorg (1) → Ooty (2) → Wayanad (2) → Kozhikode (1)",
+        "Bengaluru (1) → Mysore (2) → Ooty (2) → Kodaikanal (2)",
+        "Kovalam (1) → Kanniyakumari (1) → Rameswaram (1) → Kodaikanal (2) → Ooty (2)",
+        "Madurai (1) → Thekkady (1) → Munnar (2) → Alappuzha (1) → Cochin (1)",
+        "Madurai (1) → Thekkady (1) → Munnar (2) → Alappuzha (1) → Cochin (1)",
+        "Munnar (2) → Thekkady (1) → Alappuzha (1) → Kanniyakumari (1) → Kovalam (2)",
+        "Mahabalipuram (2) → Puducherry (2)",
+        "Chennai (1) → Tirupati (1)"
+    ],
+    "image": "images/tamil-nadu-tour-packages.jpg",
+    "link": "/india-holidays/tamil-nadu-tour-packages.html",
+    "feature": ["Heritage Sites", "Temple Tours", "Hill Stations", "Beach Destinations", "Wildlife & Nature"]
+}
+,
+{
+    "id": 23,
+    "keyword": ["Uttar Pradesh", "Delhi", "Agra", "Jaipur", "Jodhpur", "Jaisalmer", "Bharatpur", "Ranthambhore", "Udaipur"],
+    "price": ["₹21,000", "₹25,300", "₹33,300","₹27800"],
+    "daynight": "4 Nights / 5 Days",
+    "route": [
+        "Delhi (1) → Agra (1) → Jaipur (2)",
+        "Delhi (1) → Agra (1) → Jaipur (2) → Jodhpur (1)",
+        "Delhi (1) → Agra (1) → Jaipur (2) → Jodhpur (1) → Jaisalmer (2)",
+        "Agra (1) → Bharatpur (1) → Ranthambhore (2) → Jaipur (2)",
+        "Delhi (1) → Agra (1) → Jaipur (2) → Udaipur (2)"
+    ],
+    "image": "images/uttar-pradesh-tour-packages.jpg",
+    "link": "/india-holidays/uttar-pradesh-tour-packages.html",
+    "feature": ["Heritage Tours", "Cultural Attractions", "Historical Sites", "Wildlife Safari"]
+},
+{
+    "id": 25,
+    "keyword": ["West Bengal", "Gangtok", "Lachung", "Pelling", "Darjeeling", "Kalimpong", "Puri", "Bhubaneshwar", "Kolkata"],
+    "price": ["₹22,000", "₹30,000", "₹38,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+        "Gangtok (2) → Lachung (2) → Gangtok (1) → Pelling (2) → Darjeeling (2)",
+        "Gangtok (2) → Kalimpong (1) → Darjeeling (2)",
+        "Gangtok (2) → Pelling (2) → Darjeeling (2)",
+        "Gangtok (3) → Kalimpong (1) → Darjeeling (2)",
+        "Puri (1) → Bhubaneshwar (1) → Kolkata (2)"
+    ],
+    "image": "images/west-bengal-tour-packages.jpg",
+    "link": "/india-holidays/west-bengal-tour-packages.html",
+    "feature": ["Hill Stations", "Cultural Tours", "Pilgrimage Tours", "Heritage Sites"]
+}
+,
+{
+    "id": 26,
+    "keyword": ["Argentina", "Buenos Aires", "El Calafate", "Puerto Natales", "Puerto Varas", "Santiago", "Lima", "Yucay", "Cusco", "Foz do Iguacu", "Rio de Janeiro", "Sao Paulo"],
+    "price": ["₹1,50,000", "₹1,80,000", "₹2,10,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Buenos Aires (2) → El Calafate (2) → Puerto Natales (2) → Puerto Varas (2) → Santiago (2)",
+        "Lima (2) → Yucay (1) → Cusco (1) → Buenos Aires (3) → Foz do Iguacu (1) → Rio de Janeiro (3)",
+        "Buenos Aires (3) → El Calafate (2) → Foz do Iguacu (2) → Sao Paulo (2) → Rio de Janeiro (3)"
+    ],
+    "image": "images/argentina-tour-packages.jpg",
+    "link": "international-holidays/argentina-tour-packages.html",
+    "feature": ["Cultural Tours", "Adventure Travel", "Nature & Wildlife", "City Exploration"]
+    
+}
+,
+{
+    "id": 27,
+    "keyword": ["Australia", "Melbourne", "Gold Coast", "Hamilton Island", "Sydney", "Tangalooma", "Cairns"],
+    "price": ["₹2,00,000", "₹2,50,000", "₹3,00,000"],
+    "daynight": "9 Nights / 10 Days",
+    "route": [
+        "Melbourne (3) → Gold Coast (3) → Hamilton Island (3) → Sydney (3)",
+        "Melbourne (3) → Tangalooma (1) → Gold Coast (3) → Cairns (3) → Sydney (3)",
+        "Melbourne (3) → Gold Coast (3) → Sydney (3)",
+        "Sydney (3) → Cairns (3) → Melbourne (3)",
+        "Gold Coast (3) → Sydney (3)"
+    ],
+    "image": "images/australia-tour-packages.jpg",
+    "link": "international-holidays/australia-tour-packages.html",
+    "feature": ["City Exploration", "Beaches & Islands", "Wildlife & Nature", "Adventure Activities"]
+},
+{
+    "id": 28,
+    "keyword": ["Austria", "Vienna", "Salzburg", "Innsbruck", "Weinviertel", "Linz", "Cesky Krumlov", "Prague", "Munich", "Budapest", "Interlaken", "Lucerne", "Paris"],
+    "price": ["₹2,50,000", "₹3,00,000", "₹3,50,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Paris (3) → Interlaken (2) → Lucerne (2) → Innsbruck (2) → Salzburg (2) → Vienna (2)",
+        "Vienna (4) → Weinviertel (2)",
+        "Vienna (2) → Linz (2) → Cesky Krumlov (1) → Prague (2) → Munich (3)",
+        "Prague (2) → Salzburg (2) → Vienna (2) → Budapest (2)",
+        "Innsbruck (2) → Salzburg (3) → Vienna (2)",
+        "Budapest (2) → Vienna (3) → Prague (3)"
+    ],
+    "image": "images/austria-tour-packages.jpg",
+    "link": "international-holidays/austria-tour-packages.html",
+    "feature": ["Cultural Tours", "Historical Landmarks", "Scenic Beauty", "European Exploration"]
+}
+
+,
+{
+    "id": 29,
+    "keyword": ["Bhutan", "Thimphu", "Paro", "Punakha", "Phuntsholing"],
+    "price": ["₹50,000", "₹75,000", "₹1,00,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+        "Thimphu (2) → Paro (2)",
+        "Phuntsholing (1) → Thimphu (2) → Punakha (1) → Paro (2) → Phuntsholing (1)",
+        "Thimphu (2) → Punakha (1) → Paro (2)"
+    ],
+    "image": "images/bhutan-tour-packages.jpg",
+    "link": "international-holidays/bhutan-tour-packages.html",
+    "feature": ["Scenic Landscapes", "Cultural Heritage", "Buddhist Monasteries", "Adventure Trails"]
+},
+{
+    "id": 30,
+    "keyword": ["Brazil", "Rio de Janeiro", "Foz do Iguacu", "Sao Paulo", "Lima", "Buenos Aires"],
+    "price": ["₹1,20,000", "₹1,50,000", "₹1,80,000"],
+    "daynight": "9 Nights / 10 Days",
+    "route": [
+        "Lima (2) → Yucay (1) → Cusco (1) → Buenos Aires (3) → Foz do Iguacu (1) → Rio de Janeiro (3)",
+        "Buenos Aires (3) → El Calafate (2) → Foz do Iguacu (2) → Sao Paulo (2) → Rio de Janeiro (3)"
+    ],
+    "image": "images/brazil-tour-packages.jpg",
+    "link": "international-holidays/brazil-tour-packages.html",
+    "feature": ["Amazon Rainforest", "Beaches", "Carnival Festival", "Historical Cities"]
+}
+,
+{
+    "id": 31,
+    "keyword": ["Canada", "Vancouver", "Kamloops", "Jasper", "Lake Louise", "Banff", "Calgary"],
+    "price": ["₹1,80,000", "₹2,10,000", "₹2,50,000"],
+    "daynight": "9 Nights / 10 Days",
+    "route": [
+        "Vancouver (3) → Kamloops (1) → Jasper (2) → Lake Louise (1) → Banff (2)",
+        "Vancouver (3) → Kamloops (1) → Lake Louise (1) → Jasper (2) → Banff (2)",
+        "Vancouver (3) → Train (1) → Jasper (2) → Lake Louise (1) → Banff (2)",
+        "Calgary (1) → Banff (2) → Lake Louise (1) → Jasper (2)"
+    ],
+    "image": "images/canada-tour-packages.jpg",
+    "link": "international-holidays/canada-tour-packages.html",
+    "feature": ["Rocky Mountains", "National Parks", "Scenic Train Rides", "Wildlife Safaris"]
+},
+{
+    "id": 32,
+    "keyword": ["China", "Hong Kong", "Shenzhen", "Macau"],
+    "price": ["₹1,50,000", "₹1,80,000", "₹2,10,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+        "Hong Kong (3) → Shenzhen (1) → Macau (2)"
+    ],
+    "image": "images/china-tour-packages.jpg",
+    "link": "international-holidays/china-tour-packages.html",
+    "feature": ["Skyline Views", "Theme Parks", "Shopping", "Casinos", "Cultural Heritage"]
+},
+{
+    "id": 33,
+    "keyword": ["Denmark", "Copenhagen", "Oslo", "Flam", "Bergen", "Stockholm", "Helsinki"],
+    "price": ["₹2,00,000", "₹2,50,000", "₹3,00,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Copenhagen (2) → Ferry (1) → Oslo (2) → Flam (1) → Bergen (2) → Stockholm (2) → Ferry (1) → Helsinki (2)",
+        "Helsinki (2) → Ferry (1) → Stockholm (2) → Oslo (2) → Ferry (1) → Copenhagen (2)",
+        "Copenhagen (2) → Ferry (1) → Oslo (1) → Stockholm (2)"
+    ],
+    "image": "images/denmark-tour-packages.jpg",
+    "link": "international-holidays/denmark-tour-packages.html",
+    "feature": ["Fjord Cruises", "Scenic Train Rides", "Nordic Culture", "Helsinki & Stockholm Cruises", "Copenhagen Landmarks"]
+}
+,
+{
+    "id": 32,
+    "keyword": ["Germany", "Berlin", "Cologne", "Frankfurt", "Baden-Baden", "Munich", "Stuttgart", "Dresden"],
+    "price": ["₹1,80,000", "₹2,20,000", "₹2,80,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Paris (3) → Lucerne (2) → Interlaken (2) → Zurich (1) → Baden-Baden (2) → Munich (2)",
+        "Paris (3) → Interlaken (2) → Lucerne (2) → Munich (2) → Frankfurt am Main (2)",
+        "Berlin (2) → Cologne (1) → Frankfurt am Main (2) → Baden-Baden (2) → Munich (4)",
+        "Frankfurt am Main (2) → Titisee (2) → Freiburg (1) → Stuttgart (2) → Munich (2)",
+        "Vienna (2) → Linz (2) → Cesky Krumlov (1) → Prague (2) → Munich (3)",
+        "Vienna (2) → Prague (2) → Dresden (2) → Leipzig (2) → Berlin"
+    ],
+    "image": "images/germany-tour-packages.jpg",
+    "link": "international-holidays/germany-tour-packages.html",
+    "feature": [
+        "Berlin Sightseeing", 
+        "Bavarian Castles", 
+        "Romantic Road", 
+        "Oktoberfest Experience", 
+        "Black Forest & Rhine Valley"
+    ]
+}
+,
+{
+    "id": 35,
+    "keyword": ["Hong Kong", "Macau", "Shenzhen", "Cruise", "Nadi"],
+    "price": ["₹1,50,000", "₹1,80,000", "₹2,10,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+        "Nadi (4) → Hong Kong (3)",
+        "Cruise (2) → Hong Kong (3) → Macau (2)",
+        "Hong Kong (3) → Shenzhen (1) → Macau (2)",
+        "Hong Kong (4)",
+        "Hong Kong (3) → Macau (2)"
+    ],
+    "image": "images/hong-kong-tour-packages.jpg",
+    "link": "international-holidays/hong-kong-tour-packages.html",
+    "feature": [
+        "Disneyland & Ocean Park",
+        "Victoria Peak & Symphony of Lights",
+        "Macau Casino & Ruins of St. Paul's",
+        "Shopping at Tsim Sha Tsui",
+        "Cultural Experience in Shenzhen"
+    ]
+},
+{
+    "id": 36,
+    "keyword": ["Iceland", "Reykjavik", "Vik", "Northern Lights", "Blue Lagoon"],
+    "price": ["₹2,50,000", "₹2,80,000", "₹3,20,000"],
+    "daynight": "5 Nights / 6 Days",
+    "route": [
+        "Reykjavik (2) → Vik (3)"
+    ],
+    "image": "images/iceland-tour-packages.jpg",
+    "link": "international-holidays/iceland-tour-packages.html",
+    "feature": [
+        "Northern Lights Experience",
+        "Blue Lagoon Geothermal Spa",
+        "Golden Circle Tour",
+        "Glacier Hiking & Ice Caves",
+        "Black Sand Beaches of Vik"
+    ]
+},
+{
+    "id": 38,
+    "keyword": ["India", "Golden Triangle", "Himalayas", "Kerala Backwaters", "Goa Beaches"],
+    "price": ["₹30,000", "₹50,000", "₹75,000"],
+    "daynight": "7 Nights / 8 Days",
+    "route": [
+        "Delhi (2) → Agra (1) → Jaipur (2) → Udaipur (2)",
+        "Mumbai (2) → Goa (3) → Kerala (3)",
+        "Darjeeling (2) → Gangtok (2) → Pelling (2)",
+        "Shimla (2) → Manali (3) → Dharamshala (2)",
+        "Kochi (1) → Munnar (2) → Thekkady (2) → Alappuzha (2)"
+    ],
+    "image": "images/india-tour-packages.jpg",
+    "link": "international-holidays/india-tour-packages.html",
+    "feature": [
+        "Cultural Heritage & Historical Sites",
+        "Beach & Adventure Holidays",
+        "Himalayan Mountain Retreats",
+        "Wildlife Safaris & National Parks",
+        "Luxury Train Journeys & Spiritual Tours"
+    ]
+},
+
+
+{
+    "id": 39,
+    "keyword": ["Indonesia", "Bali", "Gili Islands", "Singapore", "Cruise"],
+    "price": ["₹60,000", "₹90,000", "₹1,20,000"],
+    "daynight": "7 Nights / 8 Days",
+    "route": [
+        "Bali (4) → Singapore (3) → Cruise (2)",
+        "Bali (5) → Singapore (3)",
+        "Singapore (4) → Bintan Island (2)",
+        "Bali (3) → Gili Islands (2)"
+    ],
+    "image": "images/indonesia-tour-packages.jpg",
+    "link": "international-holidays/indonesia-tour-packages.html",
+    "feature": [
+        "Beach Getaways & Island Hopping",
+        "Luxury Cruises & Water Sports",
+        "Cultural Temples & Local Markets",
+        "Adventure & Nightlife in Bali",
+        "Scenic Resorts & Romantic Escapes"
+    ]
+}
+,
+{
+    "id": 40,
+    "keyword": ["Italy", "Rome", "Florence", "Venice", "Milan", "Naples", "Interlaken", "Lucerne"],
+    "price": ["₹1,20,000", "₹1,50,000", "₹1,80,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Rome (3) → Florence (2) → Venice (2) → Interlaken (2) → Lucerne (2) → Paris (3)",
+        "Milan (2) → Venice (2) → Florence (3) → Naples (3) → Rome (2)",
+        "Milan (1) → Como (2) → Zermatt (2) → Interlaken (2) → Lucerne (2) → Zurich (1)",
+        "Rome (3) → Sorrento (4) → Florence (2)",
+        "Venice (2) → Florence (2) → Rome (2)",
+        "Rome (3) → Florence (2) → Venice"
+    ],
+    "image": "images/italy-tour-packages.jpg",
+    "link": "international-holidays/italy-tour-packages.html",
+    "feature": [
+        "Explore Ancient Rome & Vatican City",
+        "Romantic Gondola Rides in Venice",
+        "Tuscan Countryside & Wine Tours",
+        "Swiss Alps Excursions from Italy",
+        "Art & Architecture in Florence"
+    ]
+}
+,
+{
+    "id": 41,
+    "keyword": ["Japan", "Tokyo", "Kyoto", "Hakone", "Osaka"],
+    "price": ["₹1,00,000", "₹1,20,000", "₹1,50,000"],
+    "daynight": "8 Nights / 9 Days",
+    "route": [
+        "Tokyo (3) → Kyoto (3)",
+        "Tokyo (3) → Hakone (1) → Kyoto (3)",
+        "Tokyo (4) → Osaka (2)",
+        "Tokyo (3)"
+    ],
+    "image": "images/japan-tour-packages.jpg",
+    "link": "international-holidays/japan-tour-packages.html",
+    "feature": [
+        "Explore the Cultural Capital of Kyoto",
+        "Visit Mount Fuji and Hakone Hot Springs",
+        "Experience Tokyo's Modern Vibe",
+        "Delight in Osaka's Street Food Culture",
+        "Discover Ancient Temples and Shrines"
+    ]
+}
+,
+{
+    "id": 42,
+    "keyword": ["Malaysia", "Singapore", "Kuala Lumpur", "Langkawi", "Bali", "Cruise", "Johor Bahru", "Kota Kinabalu", "Taman Negara"],
+    "price": ["₹1,20,000", "₹1,50,000", "₹1,80,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Singapore (3) → Cruise (2) → Kuala Lumpur (3)",
+        "Cruise (3)",
+        "Kuala Lumpur (3) → Langkawi (2) → Johor Bahru (1)",
+        "Singapore (4) → Kuala Lumpur (2)",
+        "Kuala Lumpur (3) → Kota Kinabalu (2)",
+        "Kuala Lumpur (2) → Taman Negara (2)",
+        "Bali (5) → Kuala Lumpur (3)",
+        "Langkawi (3) → Kuala Lumpur (3)"
+    ],
+    "image": "images/malaysia-tour-packages.jpg",
+    "link": "international-holidays/malaysia-tour-packages.html",
+    "feature": [
+        "Explore Kuala Lumpur's Iconic Landmarks",
+        "Relax on the Beaches of Langkawi",
+        "Cruise through the Straits of Malacca",
+        "Discover Bali's Natural Beauty",
+        "Visit the Cultural City of Johor Bahru",
+        "Experience Kota Kinabalu's Wildlife"
+    ]
+}
+
+,
+{
+    "id": 43,
+    "keyword": ["Nepal", "Kathmandu", "Nagarkot", "Pokhara"],
+    "price": ["₹50,000", "₹60,000", "₹70,000"],
+    "daynight": "7 Nights / 8 Days",
+    "route": [
+        "Kathmandu (1) → Nagarkot (1) → Pokhara (4) → Kathmandu (1)"
+    ],
+    "image": "images/nepal-tour-packages.jpg",
+    "link": "international-holidays/nepal-tour-packages.html",
+    "feature": [
+        "Visit the Historic Kathmandu Durbar Square",
+        "Explore the Scenic Beauty of Nagarkot",
+        "Discover Pokhara's Lakes and Adventure",
+        "Enjoy the Himalayan Views from Kathmandu",
+        "Relax in Pokhara's Peaceful Atmosphere"
+    ]
+}
+,{
+    "id": 44,
+    "keyword": ["New Zealand", "Auckland", "Rotorua", "Wellington", "Queenstown", "Christchurch"],
+    "price": ["₹80,000", "₹90,000", "₹100,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Auckland (2) → Rotorua (2) → Wellington (2) → Kaikoura (1) → Franz Josef Glacier (2) → Queenstown (3) → Christchurch (2)",
+        "Auckland (3) → Paihia (2) → Rotorua (2) → Franz Josef Glacier (1) → Queenstown (3) → Christchurch (2)",
+        "Auckland (1) → Rotorua (2) → Queenstown (2) → Christchurch (1)",
+        "Christchurch (2) → Dunedin (1) → Queenstown (3) → Franz Josef Glacier (2)"
+    ],
+    "image": "images/new-zealand-tour-packages.jpg",
+    "link": "international-holidays/new-zealand-tour-packages.html",
+    "feature": [
+        "Explore Auckland's Culture and Landscapes",
+        "Relax at Rotorua's Hot Springs",
+        "Experience Wellington's Scenic Views",
+        "Admire the Wildlife at Kaikoura",
+        "Witness the Majestic Franz Josef Glacier",
+        "Discover Queenstown's Adventure Spots",
+        "Visit Christchurch's Historic Gardens",
+        "Enjoy Dunedin's Scottish Heritage"
+    ]
+}
+
+,
+{
+    "id": 45,
+    "keyword": ["Peru", "Quito", "Baños de Agua Santa", "Amazon", "Lima", "Cusco", "Yucay", "Buenos Aires", "Foz do Iguacu", "Rio de Janeiro"],
+    "price": ["₹70,000", "₹80,000", "₹90,000"],
+    "daynight": "9 Nights / 10 Days",
+    "route": [
+        "Quito (3) → Baños de Agua Santa (1) → Amazon (2) → Lima (3) → Cusco (2)",
+        "Lima (2) → Yucay (1) → Cusco (1) → Buenos Aires (3) → Foz do Iguacu (1) → Rio de Janeiro (3)"
+    ],
+    "image": "images/peru-tour-packages.jpg",
+    "link": "international-holidays/peru-tour-packages.html",
+    "feature": [
+        "Explore the Historic City of Quito",
+        "Relax in Baños de Agua Santa",
+        "Experience the Wonders of the Amazon",
+        "Discover Lima's Rich Culture",
+        "Visit the Sacred Valley in Cusco",
+        "Admire Buenos Aires' Vibrancy",
+        "Marvel at Foz do Iguacu Waterfalls",
+        "Explore the Beauty of Rio de Janeiro"
+    ]
+}
+,
+{
+    "id": 46,
+    "keyword": ["Portugal", "Barcelona", "Valencia", "Malaga", "Sevilla", "Madrid", "Porto", "Lisbon", "Coimbra"],
+    "price": ["₹85,000", "₹95,000", "₹105,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+        "Barcelona (2) → Valencia (1) → Malaga (2) → Sevilla (2) → Madrid (2) → Porto (2) → Lisbon (3)",
+        "Lisbon (3) → Coimbra (2) → Porto (2)"
+    ],
+    "image": "images/portugal-tour-packages.jpg",
+    "link": "international-holidays/portugal-tour-packages.html",
+    "feature": [
+        "Explore the Historic Streets of Barcelona",
+        "Discover the Beauty of Valencia",
+        "Relax on the Beaches of Malaga",
+        "Experience the Charm of Sevilla",
+        "Visit the Iconic Landmarks in Madrid",
+        "Explore the Beauty of Porto",
+        "Discover the Vibrant Culture of Lisbon",
+        "Admire the Historic Architecture of Coimbra"
+    ]
+}
+,
+{
+    "id": 47,
+    "keyword": ["Singapore", "Bali", "Kuala Lumpur", "Cruise"],
+    "price": ["₹45,000", "₹55,000", "₹60,000"],
+    "daynight": "7 Nights / 8 Days",
+    "route": [
+        "Singapore (4)",
+        "Bali (4) → Singapore (3) → Cruise (2)",
+        "Singapore (3) → Cruise (2) → Kuala Lumpur (3)"
+    ],
+    "image": "images/singapore-tour-packages.jpg",
+    "link": "international-holidays/singapore-tour-packages.html",
+    "feature": [
+        "Explore the City of Skyscrapers in Singapore",
+        "Visit the Gardens by the Bay and Marina Bay Sands",
+        "Enjoy a Luxury Cruise Experience",
+        "Discover the Vibrancy of Kuala Lumpur",
+        "Relax in Bali’s Beaches and Resorts"
+    ]
+}
+,
+{
+    "id": 48,
+    "keyword": ["South Africa", "Cape Town", "Oudtshoorn", "Knysna", "Sun City", "Pilanesberg", "Johannesburg", "Kruger National Park"],
+    "price": ["₹61,030", "₹77,370", "₹92,720"],
+    "daynight": "9 Nights / 10 Days",
+    "route": [
+      "Cape Town (3) → Oudtshoorn (1) → Knysna (1) → Sun City (2) → Pilanesberg (2) → Johannesburg (2)",
+      "Cape Town (3) → Oudtshoorn (1) → Knysna (2) → Sun City (2) → Johannesburg (1)",
+      "Cape Town (4) → Kruger National Park (2) → Johannesburg (1)",
+      "Cape Town (4) → Sun City (2)",
+      "Cape Town (3) → Knysna (2) → Sun City (2) → Johannesburg"
+    ],
+    "image": "images/south-africa-tour-packages.jpg",
+    "link": "international-holidays/south-africa-tour-packages.html",
+    "feature": [
+      "Explore the Vibrant City of Cape Town",
+      "Discover the Beauty of Oudtshoorn",
+      "Relax in Knysna",
+      "Experience the Entertainment of Sun City",
+      "Visit the Wildlife in Pilanesberg",
+      "Enjoy a Safari in Kruger National Park",
+      "Admire Johannesburg's Modernity"
+    ]
+  }
+  ,
+  {
+    "id": 49,
+    "keyword": ["South Korea", "Seoul", "Jeju City"],
+    "price": ["₹45,000", "₹55,000", "₹65,000"],
+    "daynight": "6 Nights / 7 Days",
+    "route": [
+      "Seoul (3) → Jeju City (2) → Seoul (1)"
+    ],
+    "image": "images/south-korea-tour-packages.jpg",
+    "link": "international-holidays/south-korea-tour-packages.html",
+    "feature": [
+      "Explore the Dynamic City of Seoul",
+      "Discover the Natural Beauty of Jeju City",
+      "Enjoy the Cultural Heritage of South Korea",
+      "Relax and Unwind in Jeju City's Scenic Landscapes"
+    ]
+  },
+  {
+    "id": 49,
+    "keyword": ["Spain", "Barcelona", "Valencia", "Malaga", "Sevilla", "Madrid", "Porto", "Lisbon", "Granada", "Cordoba", "Ibiza", "Las Palmas de Gran Canaria"],
+    "price": ["₹65,000", "₹75,000", "₹85,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+      "Barcelona (2) → Valencia (1) → Malaga (2) → Sevilla (2) → Madrid (2) → Porto (2) → Lisbon (3)",
+      "Paris (3) → Barcelona (2) → Madrid (2)",
+      "Madrid (2) → Barcelona (2) → Valencia (1) → Granada (2) → Sevilla (2)",
+      "Barcelona (2) → Valencia (2) → Malaga (2) → Sevilla (1) → Granada (1) → Cordoba (1) → Madrid (2)",
+      "Madrid (2) → Cordoba (1) → Sevilla (2) → Malaga (1) → Granada (1) → Barcelona (2)",
+      "Madrid (2) → Ibiza (3) → Barcelona (2)",
+      "Madrid (2) → Cordoba (2) → Sevilla (2) → Valencia (2) → Barcelona (2)",
+      "Barcelona (2) → Las Palmas de Gran Canaria (3) → Madrid (2)"
+    ],
+    "image": "images/spain-tour-packages.jpg",
+    "link": "international-holidays/spain-tour-packages.html",
+    "feature": [
+      "Explore the Vibrant Streets of Barcelona",
+      "Discover the Beauty of Valencia and Malaga",
+      "Visit the Historic Landmarks in Madrid",
+      "Relax in the Scenic City of Sevilla",
+      "Enjoy the Cultural Wonders of Granada and Cordoba",
+      "Experience the Beaches of Ibiza",
+      "Explore the Canary Islands in Las Palmas"
+    ]
+  }
+  
+  
+,
+{
+    "id": 50,
+    "keyword": ["Sri Lanka", "Male", "Kandy", "Nuwara Eliya", "Colombo", "Sigiriya", "Yala National Park", "Bentota", "Chilaw", "Tissamaharama"],
+    "price": ["₹45,000", "₹55,000", "₹65,000"],
+    "daynight": "8 Nights / 9 Days",
+    "route": [
+      "Male (4) → Kandy (1) → Nuwara Eliya (1) → Colombo (1)",
+      "Sigiriya (1) → Kandy (1) → Nuwara Eliya (1) → Yala National Park (1) → Bentota (2) → Colombo (1)",
+      "Chilaw (1) → Nuwara Eliya (2) → Tissamaharama (1) → Colombo (2)",
+      "Kandy (1) → Nuwara Eliya (1) → Bentota (2) → Colombo (1)",
+      "Kandy (1) → Bentota (2) → Colombo (1)"
+    ],
+    "image": "images/sri-lanka-tour-packages.jpg",
+    "link": "international-holidays/sri-lanka-tour-packages.html",
+    "feature": [
+      "Explore the Beauty of Male",
+      "Discover the Scenic Views of Kandy and Nuwara Eliya",
+      "Visit the Ancient Ruins of Sigiriya",
+      "Enjoy a Safari at Yala National Park",
+      "Relax in the Beaches of Bentota",
+      "Experience the Culture and Heritage of Colombo",
+      "Discover the Tranquility of Chilaw"
+    ]
+  }
+  ,
+  {
+    "id": 51,
+    "keyword": ["Switzerland", "Paris", "Interlaken", "Lucerne", "Innsbruck", "Salzburg", "Vienna", "Munich", "Frankfurt am Main", "Milan", "Como", "Zermatt", "Zurich", "London", "Montreux", "St. Moritz", "Lugano", "Grindelwald"],
+    "price": ["₹85,000", "₹95,000", "₹105,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+      "Paris (3) → Interlaken (2) → Lucerne (2) → Innsbruck (2) → Salzburg (2) → Vienna (2)",
+      "Paris (3) → Interlaken (2) → Lucerne (2) → Munich (2) → Frankfurt am Main (2)",
+      "Milan (1) → Como (2) → Zermatt (2) → Interlaken (2) → Lucerne (2) → Zurich (1)",
+      "London (3) → Paris (3) → Lucerne (2) → Interlaken (2)",
+      "Zurich (1) → Interlaken (1) → Montreux (1) → Zermatt (1) → St. Moritz (1) → Lugano (1) → Lucerne (1)",
+      "Grindelwald (7) → Interlaken (2) → Lucerne (2) → Zurich (1)"
+    ],
+    "image": "images/switzerland-tour-packages.jpg",
+    "link": "international-holidays/switzerland-tour-packages.html",
+    "feature": [
+      "Explore the Iconic Eiffel Tower in Paris",
+      "Discover the Beauty of Interlaken",
+      "Visit the Charming City of Lucerne",
+      "Experience the Vibrancy of Zurich",
+      "Relax in the Stunning Alpine Village of Zermatt",
+      "Admire the Scenic Views of Montreux and St. Moritz",
+      "Take a Boat Ride on Lake Como",
+      "Enjoy the Serene Atmosphere of Grindelwald"
+    ]
+  }
+  
+,
+{
+    "id": 52,
+    "keyword": ["Thailand", "Chiang Mai", "Bangkok", "Bali", "Koh Samui", "Phuket", "Krabi", "Pattaya"],
+    "price": ["₹35,000", "₹45,000", "₹55,000"],
+    "daynight": "7 Nights / 8 Days",
+    "route": [
+      "Chiang Mai (2) → Bangkok (3)",
+      "Bali (5) → Bangkok",
+      "Koh Samui (3) → Bangkok (2)",
+      "Phuket (3) → Bangkok (2)",
+      "Krabi (2) → Phuket (3)",
+      "Pattaya (3) → Bangkok (2)"
+    ],
+    "image": "images/thailand-tour-packages.jpg",
+    "link": "international-holidays/thailand-tour-packages.html",
+    "feature": [
+      "Explore the Ancient Temples of Chiang Mai",
+      "Discover the Vibrancy of Bangkok",
+      "Relax on the Beautiful Beaches of Koh Samui",
+      "Experience the Nightlife of Phuket",
+      "Enjoy the Crystal-clear Waters of Krabi",
+      "Visit the Popular Tourist Destination of Pattaya",
+      "Indulge in the Tropical Paradise of Bali"
+    ]
+  }
+  ,
+  {
+    "id": 53,
+    "keyword": ["Turkey", "Istanbul", "Cappadocia", "Kusadasi", "Antalya", "Pamukkale", "Athens", "Mykonos", "Santorini"],
+    "price": ["₹65,000", "₹75,000", "₹85,000"],
+    "daynight": "9 Nights / 10 Days",
+    "route": [
+      "Istanbul (3) → Cappadocia (2) → Kusadasi (2) → Antalya (2)",
+      "Istanbul (2) → Cappadocia (2) → Pamukkale (1) → Kusadasi (2)",
+      "Istanbul (2) → Cappadocia (2) → Kusadasi (3)",
+      "Athens (2) → Mykonos (2) → Santorini (2) → Istanbul (2) → Cappadocia (2)"
+    ],
+    "image": "images/turkey-tour-packages.jpg",
+    "link": "international-holidays/turkey-tour-packages.html",
+    "feature": [
+      "Explore the Iconic Landmarks of Istanbul",
+      "Discover the Fairy Chimneys of Cappadocia",
+      "Relax on the Beaches of Kusadasi",
+      "Visit the Ancient Ruins of Pamukkale",
+      "Experience the Beauty of Antalya",
+      "Discover the Vibrancy of Athens",
+      "Explore the Charm of Mykonos",
+      "Admire the Sunsets in Santorini"
+    ]
+  }
+  
+  
+
+
+,
+{
+    "id": 54,
+    "keyword": ["uk","United Kingdom", "London", "Glasgow", "Inverness", "Edinburgh", "Paris", "Brussels", "Lucerne", "Interlaken", "Zurich", "Amsterdam"],
+    "price": ["₹85,000", "₹95,000", "₹105,000"],
+    "daynight": "10 Nights / 11 Days",
+    "route": [
+      "London (3) → Brussels (2) → Paris (3) → Lucerne (2) → Interlaken (2) → Zurich (1)",
+      "London (4) → Glasgow (2) → Inverness (3) → Edinburgh (2)",
+      "London (3) → Paris (3) → Lucerne (2) → Interlaken (2)",
+      "London (4) → Edinburgh (2) → Inverness (3)",
+      "London (3) → Edinburgh (3) → Inverness (3)",
+      "London (3) → Amsterdam (2) → Brussels (1) → Paris (3)",
+      "London (5) → Edinburgh (3)"
+    ],
+    "image": "images/united-kingdom-tour-packages.jpg",
+    "link": "international-holidays/united-kingdom-tour-packages.html",
+    "feature": [
+      "Visit Iconic Landmarks in London",
+      "Explore the Historic Streets of Glasgow",
+      "Discover the Beauty of Inverness",
+      "Experience the Charm of Edinburgh",
+      "Relax by the Lakes in Lucerne",
+      "Explore the Scenic Beauty of Interlaken",
+      "Admire the Architecture of Paris",
+      "Discover the Vibrancy of Amsterdam"
+    ]
+  }
+  
+        
+        ,
+        {
+            "id": 55,
+            "keyword": ["usa","United States", "New York City", "Washington, D.C.", "Harrisburg", "Niagara Falls", "Orlando", "Las Vegas", "Los Angeles", "Bakersfield", "San Francisco", "Buffalo", "Fairbanks", "Denali", "Anchorage", "Maui", "Honolulu", "Cruise"],
+            "price": ["₹95,000", "₹105,000", "₹115,000"],
+            "daynight": "10 Nights / 11 Days",
+            "route": [
+              "New York City (2) → Washington, D.C. (1) → Harrisburg (1) → Niagara Falls (2) → Orlando (4) → Las Vegas (2) → Los Angeles (1) → Bakersfield (1) → San Francisco (2)",
+              "New York City (3) → Buffalo (1) → Orlando (4) → San Francisco (2) → Las Vegas (3) → Los Angeles (3)",
+              "New York City (2) → Washington, D.C. (2) → Buffalo (1) → Orlando (4) → San Francisco (2) → Las Vegas (3) → Los Angeles (3)",
+              "San Francisco (2) → Los Angeles (2) → Las Vegas (3) → Cruise (7)",
+              "Fairbanks (2) → Denali (2) → Anchorage (2)",
+              "New York City (2) → Washington, D.C. (2) → Buffalo (1) → Orlando (4) → Cruise (3)",
+              "Las Vegas (2) → Los Angeles (1) → Bakersfield (1) → San Francisco (2)",
+              "New York City (2) → Washington, D.C. (2) → Buffalo (1) → Orlando (4)",
+              "Honolulu (3) → Maui (2)"
+            ],
+            "image": "images/united-states-tour-packages.jpg",
+            "link": "international-holidays/united-states-tour-packages.html",
+            "feature": [
+              "Explore the iconic landmarks of New York City",
+              "Visit the historic Washington, D.C. and its monuments",
+              "Discover the beauty of Niagara Falls",
+              "Enjoy the entertainment and parks in Orlando",
+              "Experience the vibrant nightlife in Las Vegas",
+              "Relax on the beaches of Los Angeles",
+              "Explore the scenic beauty of San Francisco",
+              "Visit the wilderness in Fairbanks and Denali",
+              "Cruise through the Caribbean waters",
+              "Relax in tropical paradise of Maui and Honolulu"
+            ]
+          }
+          ,
+          {
+            "id": 56,
+            "keyword": ["United Arab Emirates", "Dubai", "Ras Al Khaimah City", "Grand Baie"],
+            "price": ["₹65,000", "₹75,000", "₹85,000"],
+            "daynight": "7 Nights / 8 Days",
+            "route": [
+              "Grand Baie (4) → Dubai (3)",
+              "Dubai (3) → Ras Al Khaimah City (2)",
+              "Dubai (4)"
+            ],
+            "image": "images/united-arab-emirates-tour-packages.jpg",
+            "link": "international-holidays/united-arab-emirates-tour-packages.html",
+            "feature": [
+              "Experience the luxury and skyline of Dubai",
+              "Relax on the stunning beaches of Grand Baie",
+              "Explore the cultural heritage of Ras Al Khaimah City",
+              "Enjoy thrilling desert safaris and adventure activities",
+              "Shop at world-famous malls and traditional souks",
+              "Discover iconic landmarks like Burj Khalifa and Palm Jumeirah",
+              "Indulge in fine dining and nightlife experiences"
+            ]
+          }
+          
+        
+        
+
+        
+        
+        
+    
+
+
+    
+    
+]
+ 

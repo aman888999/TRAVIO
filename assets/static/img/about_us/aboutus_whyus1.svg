@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="34.5" cy="34.5" r="34.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-161.000000, -1091.000000)">
+            <g id="Group-9" transform="translate(105.000000, 1091.000000)">
+                <g id="Group-5" transform="translate(56.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FEF3E2" xlink:href="#path-1"></use>
+                    <polygon id="Rectangle" fill="#F7E5CA" mask="url(#mask-2)" points="28 47.5322581 55.2376628 21 83 42.4446508 62.57685 68"></polygon>
+                    <polygon id="Path" fill="#F9C747" mask="url(#mask-2)" points="26.3430697 35.9210526 56 21 31.223698 38.4057293 45.8732433 48 56 21 14 29.5263158"></polygon>
+                    <polygon id="Path" fill="#333333" mask="url(#mask-2)" points="31.3683946 38.5471726 31.2308363 38.962984 28.2412195 48 26 35.9210526 56 21"></polygon>
+                    <polygon id="Path" fill="#000000" mask="url(#mask-2)" points="30.9061639 39 28 48 36 42.2382085"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

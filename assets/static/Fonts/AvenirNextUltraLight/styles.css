@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'AvenirNext-UltraLight';
+  src: url('AvenirNext-UltraLight.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext-UltraLight';
+  src:  url('AvenirNext-UltraLight.woff') format('woff'), url('AvenirNext-UltraLight.ttf')  format('truetype'), url('AvenirNext-UltraLight.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

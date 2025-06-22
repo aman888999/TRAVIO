@@ -1,0 +1,432 @@
+a{
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.navbar.isSolid{
+  background:#111 !important;
+  position: relative !important;
+  -webkit-transition: top 0s ease-in-out;
+  -moz-transition: top 0s ease-in-out;
+  -o-transition: top 0s ease-in-out;
+  -ms-transition: top 0s ease-in-out;
+  transition: top 0s ease-in-out;
+}
+
+
+/*=====BLOG HEADER=====*/
+.blog_header{
+    width:90%; max-width:70em; margin:3em auto 0 auto; border-bottom:1px solid #f0f0f0; height:5em; z-index:-1;
+    display:flex;
+    flex-direction:row;
+}
+.blog_header h1{
+    font-size:2em;
+}
+.blog_header .search_container{
+    margin-top:1em; background:#fafafa;border-radius:3px; width:15em;
+    margin-left:auto;
+    height:2.8rem;
+}
+.blog_header input{
+    width:calc(100% - 60px); padding:0.8em; font-size:0.9em; outline:none; border:none; background:#fafafa; margin-top:0.2em; border-radius:3px;
+}
+.blog_header img{
+    width:1.3em; margin-top:0.8em; margin-left:0.5em
+}
+
+/*BELOW 1146*/
+@media screen and (min-width:1146px) {
+    .search_container_mobile{
+        display:none;
+    }
+}
+@media screen and (min-width:801px) and (max-width: 1145px) {
+    .blog_header h1{
+        font-size:1.8em;
+    }
+    .search_container_mobile{
+        display:none;
+    }
+}
+/*BELOW 800*/
+@media screen and (max-width: 800px) {
+    .search_container{
+        display:none;
+    }
+    .blog_header{
+        margin:3em auto 0 auto; height:3.5em;
+    }
+    .blog_header h1{
+        font-size:1.5em; display:block; flex-grow:1;
+    }
+    .blog_header .search_container_mobile{
+        margin-top:0.2em; background:#fff;border-radius:3px; width:auto;
+        margin-left:auto;
+        display:flex;
+        flex-direction: row;
+    }
+    .blog_header .search_container_mobile img{
+        width:1.4em; margin-top:0.2rem;
+    }
+    .blog_header .search_container_mobile input{
+      display:none;
+    }
+    .blog_header .search_container_mobile input[type='text']{
+      padding:0.8em; font-size:0.9em; outline:none; border:none; background:#fff; margin-top:0.7em; border-radius:3px; float:left;
+    }
+}
+
+
+
+/*=====FEATURED POST=====*/
+.featured_post{
+    width:90%; max-width:70em; margin:4em auto;
+}
+.featured_post .left{
+    width:39%;
+}
+.featured_post .right{
+    width:60%; border-left:1px solid #f0f0f0;
+}
+.featured_post .right .image_container{
+    width:90%; float:right; height:auto; margin-top:1em; margin-right:1em; position:relative; background-color:#ccc; border-radius:3px;
+}
+.featured_post .right .image_container::after{
+    content:''; position:absolute; top:-1em; right:-1em; width:100%; height:100%; background:#eee; z-index:-1;border-radius:3px;
+}
+.tag_featured{
+    width:5em; padding:0.2em 0.5em; border:1px solid #555; text-align:center; font-size:0.8em; border-radius:3px;
+}
+.featured_post h2{
+    font-size:2.5em; position:relative; line-height:1.3em;
+}
+.featured_post h2::after{
+    content:''; position:absolute; bottom:-0.8em; left:0; width:2.5em; height:0; border-bottom:1px solid #ddd;
+}
+.featured_post p{
+    margin-top:3em; font-size:1.2em; color:#555;
+}
+.featured_post .tag{
+    display:inline-block; padding:0.3em 1em; font-size:0.8em; background-color:#eee; text-transform: uppercase; text-align:Center; color:#000;
+    border-radius:3px; margin-right:0.5em;
+}
+.featured_post .tag.primary{
+    background-color:#333; color:#fff;
+}
+
+/*ABOVE 1145*/
+@media screen and (min-width: 1146px) {
+
+}
+/*BETWEEN 800 and 1146*/
+@media screen and (max-width: 801px) and (max-width: 1145px) {
+    .featured_post h2{
+        font-size:2em;
+    }
+    .featured_post p{
+        margin-top:3em; font-size:1em; color:#555;
+    }
+}
+/*BETWEEN 650 and 800*/
+@media screen and (min-width: 651px) and (max-width: 800px) {
+    .featured_post h2{
+        font-size:1.7em;
+    }
+    .featured_post p{
+        margin-top:3em; font-size:0.9em; color:#555;
+    }
+}
+/*BELOW 650*/
+@media screen and (max-width: 650px) {
+    .featured_post{
+        width:100%; max-width:70em; margin:2em auto 0 auto;
+    }
+    .featured_post h2{
+        font-size:1.5em;
+    }
+    .featured_post p{
+        margin-top:2em; font-size:0.9em; color:#555;
+    }
+    .featured_post h4{
+        font-size:0.8em;
+    }
+    .featured_post .left{
+        width:90%; margin:0 auto; float:none;
+    }
+    .featured_post .right{
+        width:100%;  border-left:none;
+    }
+    .featured_post .right .image_container{
+        width:100%; float:right; height:auto; margin-top:1em; margin-right:0%; position:relative; background-color:#ccc; border-radius:3px;
+    }
+    .featured_post .right .image_container::after{
+        display:none;
+    }
+
+
+}
+
+
+
+
+/*=====DESTINATION GUIDES=====*/
+.destination_guides{
+    width:90%; max-width:70em; margin:0em auto 2em auto; text-align:center;
+}
+.destination_guides h1{
+    font-size:2.2em; text-align:center; position:relative;
+}
+.destination_guides h1::after{
+    content:''; position:absolute; bottom:-0.5em; left:47%; width:2em; margin:auto; border:1px solid #555;
+}
+.guide_container{
+    display:flex; width:90%; max-width:70em; margin:0 auto;
+}
+.guide{
+    width:22%; height:auto; background-color:#fff; margin:4em 1.5%; border-radius:3px; overflow:hidden; position:relative; overflow:hidden;
+}
+.guide a{
+  background:rgba(1,1,1,0.1);
+}
+.guide img{
+    width:100%;
+}
+.destination_guides button{
+    background:#F6C748; color:#fff; font-size:0.8em; cursor:pointer;
+}
+.guide h1{
+    position:absolute; top:-5em; left:0; font-size:1em;
+}
+
+/*ABOVE 1145*/
+@media screen and (min-width: 1146px) {
+
+}
+/*BETWEEN 800 and 1146*/
+@media screen and (max-width: 801px) and (max-width: 1145px) {
+    .destination_guides h1{
+        font-size:2em !important;
+    }
+}
+/*BETWEEN 650 and 800*/
+@media screen and (min-width: 651px) and (max-width: 800px) {
+    .destination_guides h1{
+        font-size:1.7em !important;
+    }
+}
+/*BELOW 650*/
+@media screen and (max-width: 650px) {
+    .destination_guides{
+      margin-top:5em;
+    }
+    .destination_guides h1{
+        font-size:1.5em !important;
+    }
+    .guide h1{
+        position:absolute; top:-30em; left:0; font-size:1em;
+    }
+    .guide_container{
+        display:block; width:90%; max-width:70em; margin:2em auto 0 auto;
+    }
+    .guide{
+        width:45%; height:auto; background-color:#fff; margin:1em 2%; border-radius:3px; overflow:hidden; position:relative; overflow:hidden; display:inline-block;
+    }
+
+}
+
+
+
+
+/*=====POST LISTING=====*/
+
+/*==POST==*/
+.post_parent{
+  padding-top:4em;
+}
+.post{
+    width:90%; max-width:70em; margin:0 auto 2em auto;  padding-top:1em;
+}
+.post .left{
+    width:45%;
+}
+.post h2{
+    font-size:2em; line-height:1.2em; position:relative;
+}
+.post h2::after{
+    content:''; position:absolute; bottom:-0.8em; left:0; height:0; width:3em; border-bottom:1px solid #ddd;
+}
+.post p{
+    font-size:1em; font-weight:400; color:#555; padding:1em 0;
+}
+.post .tag{
+    display:inline-block; padding:0.3em 1em; font-size:0.8em; background-color:#eee; text-transform: uppercase; text-align:Center; color:#000;
+    border-radius:3px; margin-right:0.5em;
+}
+.post .tag.primary{
+    background-color:#333; color:#fff;
+}
+.post h4{
+    margin-top:0;
+}
+.post .right{
+    width:45%;border-left:1px solid #f0f0f0; float:left !important; margin-left:1em;
+}
+.post .right .image_container{
+    float:right;width:90%; position:relative; border-radius:3px; margin-right:1em;
+}
+.post .right .image_container img{
+    border-radius:3px;
+}
+.post .right .image_container:after{
+    content:''; position:absolute; top:-1em; right:-1em; height:100%; width:100%; background:#eee; z-index:-1; border-radius:3px;
+}
+
+/*==PAGINATION BUTTONS==*/
+.pagination_container{
+    margin:1em auto;
+}
+.pagination_container button{
+    border:1px solid #888; color:#888; border-radius:3px; margin-left:3em; margin-top:5em; cursor:pointer; font-size:0.9em; padding:0.5em 1em;
+}
+.pagination_container button:hover{
+    border:1px solid #333; color:#333;
+}
+.pagination_container button.inactive{
+     border:1px solid #bbb; color:#bbb;
+}
+
+/*ABOVE 1145*/
+@media screen and (min-width: 1146px) {
+
+}
+/*BETWEEN 800 and 1146*/
+@media screen and (max-width: 801px) and (max-width: 1145px) {
+    .post h2{
+        font-size:1.8em;
+    }
+    .post p{
+        margin-top:3em; font-size:0.9em; color:#555;
+    }
+}
+/*BETWEEN 650 and 800*/
+@media screen and (min-width: 651px) and (max-width: 800px) {
+    .post_parent{
+      padding-top:0em;
+    }
+    .post{
+        width:100%; max-width:70em; margin:0 auto 2em auto; padding-top:0;
+    }
+    .post h2{
+        font-size:1.5em;
+    }
+    .post p{
+        margin-top:0em; font-size:0.9em; color:#555;
+    }
+}
+/*BELOW 650*/
+@media screen and (max-width: 650px) {
+    .post_parent{
+      padding-top:0em;
+    }
+    .post{
+        width:100%; max-width:70em; margin:1.5em auto 1em auto;padding-top:1.5em;
+    }
+    .post h2{
+        font-size:1.5em;
+    }
+    .post p{
+        margin-top:0em; font-size:0.9em; color:#555;
+    }
+    .post h4{
+        font-size:0.9em; margin-top:-1em;
+    }
+    .post .left{
+        width:100%;
+    }
+    .post .right{
+        width:100%;border-left:none; float:left !important;
+    }
+    .post .right .image_container{
+        float:right; width:120%; position:relative; border-radius:3px; margin-top:1.5em; margin-right:0%;
+    }
+    .post .right .image_container:after{
+        display:none;
+    }
+    .pagination_container{
+        margin:-1em auto 0 auto; display:flex;
+    }
+    .pagination_container button{
+        border:1px solid #888; color:#888; border-radius:3px; margin-left:1.5em; margin-top:2em; cursor:pointer; font-size:0.9em; padding:0.5em 1em; float:none !imortant; width:9em; background:#fff;
+    }
+}
+
+
+
+
+/*=====Travio INSIDER=====*/
+.Travio_insider{
+    width:90%; max-width:70em; margin:7em auto 5em auto; border-bottom:1px solid #f0f0f0;
+}
+.Travio_insider h2{
+    text-align:center; font-size:2.2em; position:relative;
+}
+.Travio_insider h2::before{
+    content:'NEWSLETTER'; position:absolute; bottom:-0.05em; text-align:center; font-family:'Avenir-bold'; font-weight:900; color:#fafafa;  font-size:1.8em; margin-left:-1.5em; z-index:-1; letter-spacing:3px;
+}
+.Travio_insider p{
+    font-size:0.8em; color:#333; text-align:center; font-size:1em; margin-top:-1em;
+}
+.Travio_insider .input_container{
+    margin:2em auto 5em auto; border:1px solid #ddd; border-radius:3em; overflow:hidden; width:25em;
+}
+.Travio_insider .input_container input{
+    font-size:0.9em; padding:0.8em; border:none; outline:0;width:82%;
+}
+.Travio_insider .input_submit{
+    width:2.5em; height:2.5em; border-radius:100%; background-color:#4C1F47; position:relative; cursor:pointer;
+}
+.Travio_insider .input_submit img{
+    position:absolute; top:0.65em; left:0.5em; width:1.5em;
+}
+
+/*BELOW 650*/
+@media screen and (max-width: 650px) {
+    .Travio_insider h2::before{
+        content:'NEWSLETTER'; position:absolute; bottom:-0.05em; text-align:center; font-family:'Avenir-bold'; font-weight:900; color:#fafafa;  font-size:1.5em; margin-left:-1.1em; z-index:-1; letter-spacing:3px;
+    }
+    .Travio_insider .input_container{
+        margin:2em auto 5em auto; border:1px solid #ddd; border-radius:3em; overflow:hidden; width:90%;
+    }
+    .Travio_insider .input_container input{
+        font-size:0.9em; padding:0.8em; border:none; outline:0;width:70%;
+    }
+    .Travio_insider .input_submit{
+        width:3em; height:3em; border-radius:100%; background-color:#4C1F47; position:relative; cursor:pointer;
+    }
+    .Travio_insider .input_submit img{
+        position:absolute; top:0.75em; left:0.65em; width:1.5em;
+    }
+}
+
+
+/*============SECTION : FORM============*/
+.form_section{
+    width:90%; max-width:65em; margin:5rem auto 3rem auto;
+    padding:4rem 0; background-color:#FEF3E2; text-align:Center; border-radius:3px;
+}
+.form_section p{
+    font-size:1.2rem; width:90%; margin:auto;
+}
+.form_section button{
+    background-color:#111; color:#fff; border-radius:3px; padding:0.8rem 1rem; margin-top:1rem; cursor:pointer;
+}
+
+@media screen and (max-width:600px){
+    .form_section{
+        margin:2rem auto 3rem auto; padding:4rem 0;
+    }
+    .form_section button{
+       margin-top:2rem;
+    }
+}

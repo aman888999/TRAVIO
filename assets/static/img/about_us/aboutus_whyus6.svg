@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="34.5" cy="34.5" r="34.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-874.000000, -1885.000000)">
+            <g id="Group-4" transform="translate(874.000000, 1885.000000)">
+                <g id="Group-2">
+                    <g id="Group-8">
+                        <g id="Group">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#FEF3E2" xlink:href="#path-1"></use>
+                            <polygon id="Rectangle" fill="#F7E5CA" mask="url(#mask-2)" transform="translate(48.824546, 41.372700) rotate(-6.000000) translate(-48.824546, -41.372700) " points="14.7132264 32.7617267 42.3823478 17.0314207 82.9358655 52.1521272 56.060115 65.7139794"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3" transform="translate(14.000000, 17.000000)">
+                    <path d="M19.925314,17 C19.925314,23.6196452 19.925314,27.7287804 19.925314,29.3274057 C19.925314,31.7253435 18.7222663,32.0368421 17.1665068,32.0368421 C15.738496,32.0368421 15.0163271,31.1336966 15,29.3274057" id="Line-22" stroke="#333333" stroke-width="2.5" stroke-linecap="square"></path>
+                    <path d="M33.4272882,17.0458547 L30.7277255,19.3745023 L26.6940504,17.0458547 L23.5476944,19.3745023 L19.8386781,17.0458547 L17.2630406,19.3745023 L13.3081588,17.0458547 L9.57174902,19.3745023 L5.71983558,17.0458547 L0,19.3745023 C3.33042945,6.45816744 9.94332213,6.16946714e-16 19.8386781,0 C29.734034,0 35.806534,6.45816744 38.0561782,19.3745023 L33.4272882,17.0458547 Z" id="Path-37" fill="#F9C747"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

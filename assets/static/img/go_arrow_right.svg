@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="48px" viewBox="0 0 69 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-pointing-to-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-388.000000, -708.000000)" fill="#FFFFFF">
+            <g id="arrow-pointing-to-right" transform="translate(388.000000, 708.000000)">
+                <path d="M68.0602197,21.7066023 L47.526988,0.9498175 C46.2742042,-0.316605833 44.2424409,-0.316605833 42.9896571,0.9498175 C41.7366167,2.21650029 41.7366167,4.26986523 42.9896571,5.53654802 L58.0459059,20.7567199 L3.20831745,20.7567199 C1.43655622,20.7567199 0,22.2089165 0,23.9999676 C0,25.7907592 1.43655622,27.2432152 3.20831745,27.2432152 L58.0459059,27.2432152 L42.9901705,42.4633871 C41.73713,43.7300699 41.73713,45.7834348 42.9901705,47.0501176 C43.616434,47.6829401 44.4377633,48 45.2588359,48 C46.0799085,48 46.9009811,47.6829401 47.5275013,47.0501176 L68.0602197,26.2933328 C69.3132601,25.02665 69.3132601,22.9732851 68.0602197,21.7066023 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

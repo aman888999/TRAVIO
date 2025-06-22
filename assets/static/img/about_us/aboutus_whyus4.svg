@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="34.5" cy="34.5" r="34.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-370.000000, -1092.000000)">
+            <g id="Group-10" transform="translate(317.000000, 1092.000000)">
+                <g id="Group-6" transform="translate(53.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FEF3E2" xlink:href="#path-1"></use>
+                    <polygon id="Rectangle" fill="#F7E5CA" mask="url(#mask-2)" points="16 43.1985546 54.7955321 23 79 41.2183357 51.6386948 68"></polygon>
+                    <path d="M16,22 L53,22 C53.5522847,22 54,22.4477153 54,23 L54,42.2121212 C54,42.764406 53.5522847,43.2121212 53,43.2121212 L44.9297295,43.2121611 C44.3774668,43.2121611 43.9297694,43.6598585 43.9297694,44.2121212 C43.9297694,44.2591071 43.9330811,44.3060346 43.9396797,44.3525548 C44.190031,46.1175183 44.1289431,47 43.7564162,47 C43.3338498,47 42.2287005,45.8645175 40.4409683,43.5935525 L40.440953,43.5935646 C40.251349,43.3527098 39.9617523,43.2121212 39.6552222,43.2121212 L16,43.2121212 C15.4477153,43.2121212 15,42.764406 15,42.2121212 L15,23 C15,22.4477153 15.4477153,22 16,22 Z" id="Rectangle" fill="#F9C747" mask="url(#mask-2)"></path>
+                    <circle id="Oval" fill="#333333" mask="url(#mask-2)" cx="26" cy="33" r="3"></circle>
+                    <circle id="Oval" fill="#333333" mask="url(#mask-2)" cx="35" cy="33" r="3"></circle>
+                    <circle id="Oval" fill="#333333" mask="url(#mask-2)" cx="44" cy="33" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

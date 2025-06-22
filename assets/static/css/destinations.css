@@ -1,0 +1,70 @@
+.navbar.isSolid{
+  background:#111 !important;
+  position: relative !important;
+  -webkit-transition: top 0s ease-in-out;
+  -moz-transition: top 0s ease-in-out;
+  -o-transition: top 0s ease-in-out;
+  -ms-transition: top 0s ease-in-out;
+  transition: top 0s ease-in-out;
+}
+button{
+    width:auto; padding:0.5em 1em; background-color:#4C1F47; color:#fff; border-radius:3em; font-size:1em; text-align:center;
+}
+
+
+
+.destinations-search{
+  margin-top:3rem;
+  padding-bottom:1rem;
+  border-bottom:1px solid #ddd;
+}
+.top-search-section ul{
+  width:90%;
+  max-width:70rem;
+  margin:0rem auto;
+}
+.top-search-section ul li{
+  display:inline-block;
+  cursor:pointer;
+  font-size:0.9rem;
+  margin:1rem 1rem;
+  text-align:center;
+}
+.top-search-section ul li:hover{
+  text-decoration:underline;
+}
+.top-search-section ul li.title:hover{
+  text-decoration:none;
+}
+.top-search-section ul li .continent{
+  text-align:center;
+}
+
+@media screen and (max-width:900px){
+  .top-search-section ul li{
+    display:block;
+  }
+  .destinations-boxes a{
+    display:inline-block;
+    margin:2rem auto;
+  }
+}
+
+
+.destinations-boxes {
+  width:90%;
+  max-width:70rem;
+  margin:0rem auto 5rem auto;
+  padding:10rem auto;
+  text-align:center;
+  font-family:avenir;
+  font-weight:300;
+}
+.destinations-boxes a{
+  display:inline-block;
+  margin:2rem;
+}
+.des-map img{
+  width:5rem;
+  margin-top:1rem;
+}

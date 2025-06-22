@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-382.000000, -3835.000000)">
+            <g id="Group-7" transform="translate(383.000000, 3836.000000)">
+                <ellipse id="Oval" stroke="#AAAAAA" stroke-width="2" cx="32.2222314" cy="32.5" rx="32.1782178" ry="32.5"></ellipse>
+                <circle id="Oval" stroke="#9B9B9B" fill="#777777" cx="32.5" cy="32.5" r="29.5"></circle>
+                <text id="CERTIFIED" font-family="Helvetica" font-size="6" font-weight="normal" letter-spacing="0.24" fill="#FFFFFF">
+                    <tspan x="16.0798323" y="20">CERTIFIED</tspan>
+                </text>
+                <text id="SPECIALIST" font-family="Helvetica-Bold, Helvetica" font-size="6" font-weight="bold" letter-spacing="0.24" fill="#FFFFFF">
+                    <tspan x="13.3587775" y="50">SPECIALIST</tspan>
+                </text>
+                <text id="SOUTH-AFRICAN" font-family="Helvetica-Light, Helvetica" font-size="9" font-weight="300" line-spacing="10" letter-spacing="0.2769231" fill="#FFFFFF">
+                    <tspan x="15.2819231" y="33">SOUTH</tspan>
+                    <tspan x="11" y="43">AFRICAN</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
